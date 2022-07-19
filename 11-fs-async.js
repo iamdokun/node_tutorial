@@ -23,10 +23,11 @@ readFile('./content/first.txt', 'utf8', (err, result) => {
             }
             console.log('done with this start');
         } )
+        
     })
 })
 
 console.log('starting next task');
 // const second =  readFile('./content/second.txt', 'utf8') 
 
-// writeFile('./content/result-sync.txt', `Here is the result  : ${first}, ${second}`, {flag: 'a'} )   
+// writeFile('./content/result-sync.txt', `Here is the result : ${first}, ${second}`, {flag: 'a'} )   
