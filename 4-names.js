@@ -2,7 +2,7 @@
 const secret = "SUPER SECRET"
 
 // share
-const john = 'john'
+const john = 'none'
 const peter = 'peter'
 
 // console.log(module);
