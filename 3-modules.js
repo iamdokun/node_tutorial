@@ -9,6 +9,3 @@ console.log(names);
 
 // require('./7-mind-grenade')
 
-// sayHi(names.john)
-// sayHi(names.peter)
-// sayHi("susan")
